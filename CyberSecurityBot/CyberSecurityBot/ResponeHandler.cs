@@ -111,23 +111,23 @@ namespace CyberSecurityBot
        
         public static string GetResponse(string input)
         {
-            if (input.Contains("password"))
-                return "Use strong passwords with symbols and numbers ";
+            if(input.Contains("password"))
+            return "Use strong passwords with symbols and numbers, avoid reusing old passwords, and consider using a password manager.";
 
             if (input.Contains("phishing"))
-                return "Be careful of fake emails asking for personal info ";
+                return "Be careful of fake emails asking for personal info, never click suspicious links or attachments, and always verify the sender before responding.";
 
             if (input.Contains("link"))
-                return "Only click trusted links and check HTTPS ";
+                return "Only click trusted links and check HTTPS, verify the website address carefully, and avoid clicking shortened or unknown URLs.";
 
-            if (input.Contains("purpose"))
-                return "I help you stay safe from cyber threats ";
+            if(input.Contains("purpose"))
+    return "I help you stay safe from cyber threats by giving security tips, warnings, and best practices for online safety.";
 
-            if (input.Contains("how are you"))
-                return "I'm running perfectly and ready to help ";
+            if(input.Contains("how are you"))
+    return "I'm running perfectly and ready to help you with anything you need.";
 
             if (input.Contains("why"))
-                return "What you wrote doesn't make sense ";
+                return "Could you please clarify your question so I can help you better?";
 
             if (input.Contains("help"))
                 return "password, phishing, link, purpose";
