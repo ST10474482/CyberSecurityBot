@@ -14,7 +14,7 @@ A simple C# console chatbot that teaches users cybersecurity basics through inte
 
 ---
 
-## 💬 Usage
+##  Usage
 
 Ask questions like:
 
