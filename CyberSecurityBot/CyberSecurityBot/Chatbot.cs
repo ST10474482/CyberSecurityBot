@@ -52,7 +52,7 @@ namespace CyberSecurityBot
 
                 input = input.ToLower();
 
-                if (input == "exit" || input == "quit" || input == "bye")
+                if (input == "exit"
                 {
                     UIHelper.TypeText($"Goodbye, {userName}! Stay safe online ");
                     break;
