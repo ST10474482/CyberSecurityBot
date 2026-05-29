@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\bin\Debug\CyberSecurityBot2.exe.config
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\bin\Debug\CyberSecurityBot2.exe
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\bin\Debug\CyberSecurityBot2.pdb
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2_MarkupCompile.cache
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2_MarkupCompile.lref
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2.g.resources
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2.Properties.Resources.resources
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2.exe
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2.pdb
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2_Content.g.cs
+C:\Users\Student\source\repos\CyberSecurityBot2\CyberSecurityBot2\obj\Debug\CyberSecurityBot2.exe.config
