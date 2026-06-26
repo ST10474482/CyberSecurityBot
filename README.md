@@ -115,3 +115,96 @@ File Handling	Saving usernames and interests
 Regex	Input sanitization
 SoundPlayer	Voice greeting audio
 Collections	Managing chatbot responses
+
+# PART 3
+
+## Overview
+
+CyberSecurityBot3 is the final stage of the Cybersecurity Awareness Chatbot project. It extends the previous WPF chatbot by introducing advanced GUI-based features, including task management, a cybersecurity quiz game, natural language processing (NLP) simulation, and an activity logging system.
+
+This version focuses on improving interactivity, learning engagement, and user experience through a fully GUI-driven application built using **C# and XAML (WPF)**.
+
+---
+
+## Features
+
+---
+
+### 📋 1. Task Assistant with MySQL Database
+
+The chatbot now includes a task management system that allows users to organise cybersecurity-related tasks.
+
+#### Features:
+- Add cybersecurity tasks (e.g., enable 2FA, update passwords)
+- Add task descriptions and optional reminders
+- Store tasks in a **MySQL database**
+- View all saved tasks in the GUI
+- Mark tasks as completed
+- Delete tasks when no longer needed
+
+#### Example:
+User: Add task – Review privacy settings  
+Bot: Task added successfully. Would you like a reminder?
+
+---
+
+### 🧠 2. Cybersecurity Mini-Game (Quiz)
+
+An interactive quiz game is integrated into the chatbot to test cybersecurity knowledge.
+
+#### Features:
+- 10+ cybersecurity questions
+- Multiple-choice and True/False questions
+- One question displayed at a time
+- Immediate feedback after each answer
+- Final score summary with performance message
+
+#### Example:
+Question: What should you do if you receive a suspicious email asking for your password?  
+- A) Reply with password  
+- B) Delete email  
+- C) Report as phishing  
+- D) Ignore  
+
+Bot: Correct! Reporting phishing emails helps prevent scams.
+
+---
+
+### 🧠 3. NLP Simulation (Keyword Detection)
+
+The chatbot simulates Natural Language Processing using keyword detection techniques.
+
+#### Features:
+- Uses `string.Contains()` for intent detection
+- Recognises flexible user input phrasing
+- Handles variations of commands like:
+  - “Add task”
+  - “Set reminder”
+  - “Remind me about password update”
+- Reduces need for strict command formatting
+
+#### Example:
+User: Remind me to update my password tomorrow  
+Bot: Reminder set for “Update password” tomorrow.
+
+---
+
+### 📊 4. Activity Log System
+
+A built-in activity tracking system records all important actions performed in the chatbot.
+
+#### Logged Actions:
+- Task creation, updates, and deletion
+- Reminder setup
+- Quiz start and completion
+- NLP-triggered actions
+
+#### Features:
+- Stores logs in a list with timestamps
+- Displays last 5–10 activities
+- Option to view full history
+- Accessible via:
+  - “Show activity log”
+  - “What have you done for me?”
+
+#### Example Output:
